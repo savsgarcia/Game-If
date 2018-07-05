@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "3EC35D71-29E0-447F-AED3-369FF2DA36C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A6211D9-6A75-481A-8F29-550F0356BBFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DB5AF78-B30F-4B8F-BF8A-0F378994FF61",
+    "height": 49,
+    "width": 51,
+    "x": 305,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E2C21B0-FE62-4AA4-9311-34CA64353980"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D01ED36-AAC7-4B9A-A85C-70EDEFBABCF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07FA76B1-2783-4ACB-B79B-7CAEE7C0CE00"
+    }
+  ],
+  "name": "mountain (1) copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "366037DB-FAB3-4B99-89BD-5D2FC2089B03",
+      "opacity": 0.144140625
+    },
+    "do_objectID": "B55A4148-8947-4FA1-B4E4-3ADCE5634394",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

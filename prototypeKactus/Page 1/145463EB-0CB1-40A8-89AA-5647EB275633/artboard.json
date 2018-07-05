@@ -1,0 +1,162 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AC0E773E-71AC-4803-BCBB-44ECE9A0852B",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "145463EB-0CB1-40A8-89AA-5647EB275633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88DF943A-B169-42D5-850F-A21BA5A5AF74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "458F6D37-B8DD-4E23-8C54-BB5F5E63C7E4",
+    "height": 640,
+    "width": 360,
+    "x": 1528,
+    "y": -252
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF30F1BC-5A2E-454C-8C4C-D4F267328F02",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9753193D-38CB-46BB-A6B3-34EFAC3B5F56"
+    },
+    {
+      "class": "group",
+      "id": "87D5AC35-BBFE-4703-857F-F75B889FD144"
+    },
+    {
+      "class": "text",
+      "id": "6E415EB6-8A08-447C-8B5A-2AC66CA5EE87"
+    },
+    {
+      "class": "text",
+      "id": "4C4FDB21-3018-4EAB-BE3B-B6F811B03C64"
+    },
+    {
+      "class": "text",
+      "id": "1F1E10CD-3806-4BED-8B36-191C708E1AB9"
+    },
+    {
+      "class": "text",
+      "id": "1E70D439-202D-44FA-9517-A4C9887CCBE2"
+    },
+    {
+      "class": "text",
+      "id": "519669D7-309A-49FA-8C50-E1BBFA4C52CA"
+    },
+    {
+      "class": "text",
+      "id": "46939FD7-EF3B-4BF1-8C37-05BF7CB52DB9"
+    },
+    {
+      "class": "text",
+      "id": "35210D91-D1D3-453A-9A37-78362DC9A656"
+    },
+    {
+      "class": "text",
+      "id": "88F2014E-318B-474E-84F4-AABB3078DAFB"
+    },
+    {
+      "class": "text",
+      "id": "F3338E0C-B427-454F-B1FD-E9C80C96503D"
+    },
+    {
+      "class": "text",
+      "id": "504EA878-FFF0-4D13-AB52-012F5CE6A4F3"
+    },
+    {
+      "class": "text",
+      "id": "B207957B-0611-4729-A970-81FA34782FBD"
+    },
+    {
+      "class": "text",
+      "id": "8117199E-5E4C-4A26-9462-13A949E2FC93"
+    },
+    {
+      "class": "text",
+      "id": "370D1336-4E0E-4DF1-A609-6A66264EDB8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A772C76-EA9B-4392-B7F8-5FBE3497E968"
+    },
+    {
+      "class": "group",
+      "id": "D5765459-7EDD-41DF-A8B9-6FE5BEECB61C"
+    },
+    {
+      "class": "group",
+      "id": "7E08765B-DB16-4BC7-948C-D71BD230BDC3"
+    },
+    {
+      "class": "text",
+      "id": "C8598F6F-845F-43A8-80D7-CFC59F920907"
+    },
+    {
+      "class": "text",
+      "id": "E4B77A63-82E4-4A66-89B4-8CC04378BE00"
+    },
+    {
+      "class": "group",
+      "id": "B1C86A6A-0882-46E7-B3B4-4773D9B9CE65"
+    }
+  ],
+  "name": "Espera",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E1195C2-9A1D-4CB1-A4A9-EB9B2128E8ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6231F911-89CF-4562-A427-F63ED117C4C3",
+    "guides": [
+    ]
+  }
+}

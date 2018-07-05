@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "do_objectID": "802c1760-8012-11e8-b057-915854099594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "4B2D3DE9-072A-4CBD-A51E-F08EC8641A63"
+    },
+    {
+      "class": "artboard",
+      "id": "56E05E01-A9E0-4174-9681-4D0C2F3B077F"
+    },
+    {
+      "class": "artboard",
+      "id": "145463EB-0CB1-40A8-89AA-5647EB275633"
+    },
+    {
+      "class": "artboard",
+      "id": "1819D4A0-A33C-43C1-9642-FFE2672193BD"
+    },
+    {
+      "class": "artboard",
+      "id": "1CFD41E9-7F72-41A7-91C6-644F962B909E"
+    },
+    {
+      "class": "artboard",
+      "id": "94C51ED7-10ED-4103-B9BC-44BDAF319DEE"
+    },
+    {
+      "class": "artboard",
+      "id": "51248420-D95A-4EBF-929C-5371219D3FB6"
+    },
+    {
+      "class": "artboard",
+      "id": "199309C3-DBC5-4902-94EA-64D298279481"
+    },
+    {
+      "class": "artboard",
+      "id": "5F21964F-5E50-403C-BF2D-ABA23876E21B"
+    },
+    {
+      "class": "group",
+      "id": "A95176ED-9C4D-4E55-B9E7-34922E5660C0"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
