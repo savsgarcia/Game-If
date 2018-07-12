@@ -29,7 +29,7 @@
     "y": -252
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -127,10 +127,6 @@
       "id": "EF22787A-5F69-4670-9B8C-89ACF886874B"
     },
     {
-      "class": "group",
-      "id": "FBB9E479-F5FF-436D-ABE2-71F7F120E0D5"
-    },
-    {
       "class": "text",
       "id": "81A70F02-AF5A-40D0-A205-3D7F4A8F4CD6"
     },
@@ -168,7 +164,7 @@
     },
     {
       "class": "group",
-      "id": "257FF705-6A77-4219-A251-86824E11ACB1"
+      "id": "F5F312DB-CB98-4C05-83A2-BCEBD6088175"
     }
   ],
   "name": "¡Ganaste!",

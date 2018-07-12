@@ -69,8 +69,40 @@
       "id": "5F21964F-5E50-403C-BF2D-ABA23876E21B"
     },
     {
+      "class": "artboard",
+      "id": "5B6E6D08-D5F7-4C1A-90F0-22F3889C5B15"
+    },
+    {
+      "class": "artboard",
+      "id": "A3FE5AD8-B6BB-414E-B93A-CB9368812930"
+    },
+    {
       "class": "group",
       "id": "A95176ED-9C4D-4E55-B9E7-34922E5660C0"
+    },
+    {
+      "class": "group",
+      "id": "87D5AC35-BBFE-4703-857F-F75B889FD144"
+    },
+    {
+      "class": "text",
+      "id": "F485D0A6-DDBC-4F24-B10D-79F36713DA85"
+    },
+    {
+      "class": "text",
+      "id": "C4B57D5E-1D07-4CE8-815A-A3775C351B0F"
+    },
+    {
+      "class": "text",
+      "id": "AD1A070B-1F31-4B6F-B228-EFF401E0D949"
+    },
+    {
+      "class": "text",
+      "id": "775F46D2-B9BB-4208-AFF6-B975E63DE54E"
+    },
+    {
+      "class": "text",
+      "id": "A02C37BD-A09A-48FA-870F-A0B4A215BD3A"
     }
   ],
   "name": "Page 1",

@@ -36,7 +36,7 @@
     "thickGridTimes": 5
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -132,6 +132,10 @@
     {
       "class": "text",
       "id": "937DCDA6-7144-4D4B-9A5B-F98379F577A4"
+    },
+    {
+      "class": "group",
+      "id": "629BCB63-8BA8-4997-AAD1-61FF37AAAC6B"
     }
   ],
   "name": "Busqueda Copy",

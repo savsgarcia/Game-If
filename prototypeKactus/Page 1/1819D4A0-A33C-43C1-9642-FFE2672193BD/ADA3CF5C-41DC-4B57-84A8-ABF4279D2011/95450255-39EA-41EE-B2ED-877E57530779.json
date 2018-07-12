@@ -19,12 +19,12 @@
     "do_objectID": "1DD9D913-0A0D-414E-A73F-68376309E059",
     "height": 480,
     "width": 852,
-    "x": -224,
-    "y": -104
+    "x": -228,
+    "y": -102
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/493c0bd8a8ec2b4e6717adbeb99f2929f4a13965.png",
+    "_ref": "images/c5e1d8a1942de0cd28a2e11e9a976512e46dfdeb.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F102FD3F-9723-4EED-860D-D54FE1A56BB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 66,
+    "x": 0,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6482FBB9-1848-43BE-85D9-FF93F9981A58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C5FC63B-6554-445F-90F0-64A8F46F7654"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22BF5FB6-53A9-4C73-8E44-1073596C177D"
+    }
+  ],
+  "name": "cloud",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
