@@ -35,6 +35,7 @@
     "string": "Roberto E."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A6E05061-89DC-4B06-AA46-20DE919B9E1E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 907
   },
   "glyphBounds": "{{20, 2}, {59, 10}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,9 +80,9 @@
       "opacity": 0.4391183035714286
     },
     "do_objectID": "5CC43C2D-275C-4344-9594-8DBCB4D75826",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "AB16AAE2-11BC-44E8-9AE3-BF4BD87A9608",
@@ -108,7 +110,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }
