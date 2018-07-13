@@ -140,7 +140,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 14,
         "location": 109
       },
       {
@@ -169,13 +169,12 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 10,
-        "location": 124
+        "location": 123
       }
     ],
-    "string": "Llegó la hora de demostrar de qué están hechos los integrantes de Equipo cardio.\nLa competencia Reto semanal comenzarás \nen 3 semanas”"
+    "string": "Llegó la hora de demostrar de qué están hechos los integrantes de Equipo cardio.\nLa competencia Reto semanal comenzará \nen 3 semanas”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "26B3D69C-1A06-4785-91CD-C64BF63A7A6D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -195,8 +194,7 @@
     "x": 25,
     "y": 355
   },
-  "glyphBounds": "{{0, 4}, {281, 69}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{0, 4}, {274, 69}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -211,9 +209,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -240,8 +238,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

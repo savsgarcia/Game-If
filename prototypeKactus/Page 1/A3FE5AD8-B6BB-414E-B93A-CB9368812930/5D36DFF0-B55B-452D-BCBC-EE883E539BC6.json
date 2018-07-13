@@ -30,14 +30,13 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 0
         },
-        "length": 17,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "¡Contesta ahora! "
+    "string": "Faltan 3 semanas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "5D36DFF0-B55B-452D-BCBC-EE883E539BC6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,19 +54,18 @@
     "constrainProportions": false,
     "do_objectID": "02340B9F-CFBC-4C90-9EC7-536BF00CA079",
     "height": 19,
-    "width": 120,
-    "x": 115,
+    "width": 122,
+    "x": 114,
     "y": 456
   },
-  "glyphBounds": "{{2, 4}, {115, 14}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{1, 4}, {120, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "¡Contesta ahora! Copy",
+  "name": "Faltan 3 semanas",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "6703B95F-7E42-4EB4-A6DE-425EF7E58615",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BC1741B5-3DAA-4EAA-B809-76455461CEEC",
@@ -108,8 +106,7 @@
         "underlineStyle": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

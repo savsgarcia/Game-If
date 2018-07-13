@@ -8,7 +8,6 @@
     "green": 0.9681919642857143,
     "red": 0.9681919642857143
   },
-  "booleanOperation": 0,
   "do_objectID": "A3FE5AD8-B6BB-414E-B93A-CB9368812930",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,7 +55,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -158,6 +156,18 @@
     },
     {
       "class": "text",
+      "id": "82308BEE-6438-422C-83F0-1020F8B266A0"
+    },
+    {
+      "class": "text",
+      "id": "01737869-7F18-468D-A550-C8D50D1764B4"
+    },
+    {
+      "class": "text",
+      "id": "0091AA1B-06F6-4B06-A08D-EB00CDF43D8B"
+    },
+    {
+      "class": "text",
       "id": "A244DD48-829A-4FE8-963F-61DBBC377D37"
     },
     {
@@ -165,8 +175,16 @@
       "id": "40BE56AC-5DD4-4208-823A-0318EE7978EF"
     },
     {
+      "class": "shapeGroup",
+      "id": "4FFE795C-993D-4C0B-B79F-06F7D695AED3"
+    },
+    {
       "class": "text",
       "id": "EBB465C4-660D-4F81-A6C7-FF9B61E32318"
+    },
+    {
+      "class": "text",
+      "id": "A3419C40-EE72-4AEE-9DDA-0AFAC9AE56EE"
     },
     {
       "class": "text",
@@ -174,15 +192,15 @@
     },
     {
       "class": "text",
-      "id": "96824BA7-FF0E-4771-B80A-2EE48AA79FCA"
+      "id": "45028676-F622-455F-A664-CFB504552C38"
     },
     {
       "class": "text",
-      "id": "67B76FDF-3E47-4F2E-B1E0-0E9CB0115DAD"
+      "id": "917233E6-861F-4CDA-ACF6-9914E72804AC"
     },
     {
       "class": "text",
-      "id": "6560F813-1974-411E-926D-D9049D3EB0A3"
+      "id": "A7E6109F-7BC9-47E3-9736-D01245A886FC"
     },
     {
       "class": "shapeGroup",
@@ -195,10 +213,6 @@
     {
       "class": "shapeGroup",
       "id": "375D8906-04A4-4205-B78D-E0DCBB889D3C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "79F78691-B90A-4A56-8672-990D87865E31"
     },
     {
       "class": "text",
@@ -354,10 +368,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "814785FB-98B4-4189-8C25-7E783498F5A6",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",

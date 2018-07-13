@@ -35,7 +35,6 @@
     "string": "Score del reto"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "1F1E10CD-3806-4BED-8B36-191C708E1AB9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 397
   },
   "glyphBounds": "{{0, 4}, {90, 12}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "286A74FC-B2DA-4EB7-9886-D2C01B737B08",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "AAE1A9EB-68FD-414A-84D4-10AA8D73A4C6",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

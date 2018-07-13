@@ -35,7 +35,6 @@
     "string": "Los Higados con cirrosis"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "028F969E-5DE0-4F3D-ABB7-884414EA019F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 619
   },
   "glyphBounds": "{{1, 4}, {156, 15}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "2E1E8F0D-0DE9-4ACF-9D61-C3DE2F7BEA70",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "C150792B-5A1F-433B-B3E9-803F84054728",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

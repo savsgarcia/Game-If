@@ -35,7 +35,6 @@
     "string": "Juan Perez"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "DF2C5FD5-8328-4445-B8C6-E473CA1C05FF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 391
   },
   "glyphBounds": "{{23, 6}, {97, 17}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "BFF26DAC-CAF4-47F3-9B8B-ED8300E17B38",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "84D8B313-9984-4A0B-9D1F-4F2B059F7CA5",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

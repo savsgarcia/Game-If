@@ -28,14 +28,13 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Los chicos efisema"
+    "string": "Equipo 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "A244DD48-829A-4FE8-963F-61DBBC377D37",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,19 +52,18 @@
     "constrainProportions": false,
     "do_objectID": "DC1D6B13-6D4D-435D-9588-BF762F80A174",
     "height": 19,
-    "width": 126,
-    "x": 58,
-    "y": 638
+    "width": 59,
+    "x": 101,
+    "y": 631
   },
-  "glyphBounds": "{{1, 4}, {124, 12}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{1, 4}, {57, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Los chicos efisema",
+  "name": "Equipo 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "3C8A5F85-7756-4AD3-B3F2-55E6D7F34BC6",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A59ACFA7-FD1A-403A-B2A0-716602CE98C0",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

@@ -35,7 +35,6 @@
     "string": "Comenzar siguiente ronda"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "FF27D927-8135-41F8-9F46-E780FDF9A495",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 599
   },
   "glyphBounds": "{{51, 3}, {152, 13}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "BD7C4F3A-0490-458D-AABB-2763D942C633",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2B365666-4627-4767-B0B3-0275C43C11E7",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 1
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2
 }

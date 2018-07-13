@@ -37,7 +37,6 @@
     "string": "¡Contesta ahora! "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "A72D2D30-B09F-4C4F-8A71-077D5579FCE3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,7 +59,6 @@
     "y": 358
   },
   "glyphBounds": "{{2, 4}, {115, 14}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -76,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "53991896-4A1F-4045-8EBC-2005F95CA1F5",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F9202B5D-BA17-4B9A-BCD8-9D9006F805DE",
@@ -108,8 +106,7 @@
         "underlineStyle": 1
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

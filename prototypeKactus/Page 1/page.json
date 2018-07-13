@@ -1,6 +1,5 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
   "do_objectID": "802c1760-8012-11e8-b057-915854099594",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +26,6 @@
     ]
   },
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -79,6 +77,10 @@
       "id": "A3FE5AD8-B6BB-414E-B93A-CB9368812930"
     },
     {
+      "class": "artboard",
+      "id": "02B56E8E-FE89-4B19-B642-757F86B1624A"
+    },
+    {
       "class": "group",
       "id": "A95176ED-9C4D-4E55-B9E7-34922E5660C0"
     },
@@ -105,14 +107,6 @@
     {
       "class": "text",
       "id": "A02C37BD-A09A-48FA-870F-A0B4A215BD3A"
-    },
-    {
-      "class": "text",
-      "id": "CEADE8F0-17BE-46D5-A5C9-5EB5AE76CDF3"
-    },
-    {
-      "class": "text",
-      "id": "B4C78D80-5F07-42E1-B5DF-292252B84777"
     }
   ],
   "name": "Page 1",
@@ -123,10 +117,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",

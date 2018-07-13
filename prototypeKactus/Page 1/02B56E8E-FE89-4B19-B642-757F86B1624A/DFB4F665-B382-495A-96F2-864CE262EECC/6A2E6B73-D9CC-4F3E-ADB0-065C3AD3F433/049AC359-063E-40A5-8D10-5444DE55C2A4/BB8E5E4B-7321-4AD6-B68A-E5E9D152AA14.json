@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "BB8E5E4B-7321-4AD6-B68A-E5E9D152AA14",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12.92972972972972,
+    "width": 5.437076168517266,
+    "x": 0,
+    "y": 0
+  },
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.59821219194216613, 0.12318840579710139}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.36747320362161612, 0.71014492753623193}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.63405797101449302}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0, 0.63405797101449302}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.94004773019483256, 0.90217391304347816}",
+      "curveMode": 4,
+      "curveTo": "{0.66657929959269913, 0.84057971014492783}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.8374970687190324, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0084148378453655, 0.38405797101449279}",
+      "curveMode": 4,
+      "curveTo": "{0.99986894938904936, 0.79710144927536253}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99986894938904936, 0.68115942028985521}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

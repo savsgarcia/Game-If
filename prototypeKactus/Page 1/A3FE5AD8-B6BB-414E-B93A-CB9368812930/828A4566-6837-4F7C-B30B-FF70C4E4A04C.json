@@ -1,6 +1,5 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
   "do_objectID": "828A4566-6837-4F7C-B30B-FF70C4E4A04C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +21,6 @@
     "y": 25
   },
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -40,10 +38,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "0038AACD-0BAD-468E-BD3C-12BD7BFBEFC2",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "symbolID": "5909D899-31AC-4952-B4C0-2870E8EF3E82",
   "verticalSpacing": 0

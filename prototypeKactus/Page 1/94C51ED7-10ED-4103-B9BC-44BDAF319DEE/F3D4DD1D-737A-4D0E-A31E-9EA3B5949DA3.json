@@ -37,7 +37,6 @@
     "string": "Rejuvenate Yourself With Apt Beauty Skin Care Products"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "F3D4DD1D-737A-4D0E-A31E-9EA3B5949DA3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,7 +59,6 @@
     "y": 410
   },
   "glyphBounds": "{{0, 4}, {249, 32}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -92,9 +90,9 @@
       }
     ],
     "do_objectID": "E83E68E8-0F43-4F8F-A884-78C34AA81C96",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "409D0DF0-28C3-4D0D-8483-A15BE8C1EEB3",
@@ -124,8 +122,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 1
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2,
   "userInfo": {

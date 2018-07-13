@@ -28,14 +28,13 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Los Higados con cirrosis"
+    "string": "Equipo 3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "40BE56AC-5DD4-4208-823A-0318EE7978EF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,19 +52,18 @@
     "constrainProportions": false,
     "do_objectID": "3D786874-FE2D-4594-9DEA-DD6166900912",
     "height": 19,
-    "width": 162,
-    "x": 58,
-    "y": 715
+    "width": 59,
+    "x": 101,
+    "y": 704
   },
-  "glyphBounds": "{{1, 4}, {161, 15}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{1, 4}, {57, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Los Higados con cirr",
+  "name": "Equipo 3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,9 +72,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "79C67F9C-EF06-4494-9DEF-BA4C1F8C8038",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BBDE197F-B15F-4045-AF2C-9D84F57EAF0C",
@@ -104,8 +102,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

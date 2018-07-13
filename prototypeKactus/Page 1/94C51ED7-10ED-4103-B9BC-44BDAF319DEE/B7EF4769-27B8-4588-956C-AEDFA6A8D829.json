@@ -37,7 +37,6 @@
     "string": "Laser Eye Surgery A Risk Analysis For My Daughter"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "B7EF4769-27B8-4588-956C-AEDFA6A8D829",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -60,7 +59,6 @@
     "y": 290
   },
   "glyphBounds": "{{1, 4}, {272, 35}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -92,9 +90,9 @@
       }
     ],
     "do_objectID": "9E133569-2E6B-4176-801B-C545B6B91E5C",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "45DB815D-BB76-4560-B96C-0DBC852DE84C",
@@ -124,8 +122,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 1
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2,
   "userInfo": {
