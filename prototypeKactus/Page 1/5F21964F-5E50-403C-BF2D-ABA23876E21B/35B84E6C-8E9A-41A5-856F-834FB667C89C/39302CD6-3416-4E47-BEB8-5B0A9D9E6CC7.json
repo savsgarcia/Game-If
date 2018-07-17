@@ -1,5 +1,6 @@
 {
   "_class": "bitmap",
+  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "do_objectID": "39302CD6-3416-4E47-BEB8-5B0A9D9E6CC7",
   "exportOptions": {
@@ -28,6 +29,7 @@
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,8 +44,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "B09B97BC-4C18-4CF5-9475-EF7552A68A72",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

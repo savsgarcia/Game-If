@@ -35,6 +35,7 @@
     "string": "Pregunta 1/2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A048E0F4-4E5A-4BAC-A4C5-70C213FB3DC6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 4
   },
   "glyphBounds": "{{15, 4}, {80, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "6CA25B78-A914-4701-8A5D-47466E581E38",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "8512AF71-F499-4EB9-BDF7-2281C3FCC7DE",
@@ -102,7 +104,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

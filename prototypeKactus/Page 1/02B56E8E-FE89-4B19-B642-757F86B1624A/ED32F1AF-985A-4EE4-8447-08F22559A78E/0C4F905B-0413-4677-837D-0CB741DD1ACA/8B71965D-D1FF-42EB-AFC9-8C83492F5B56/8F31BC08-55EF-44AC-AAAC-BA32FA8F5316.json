@@ -17,10 +17,11 @@
     "constrainProportions": false,
     "height": 6.930131846293153,
     "width": 5.270771940129061,
-    "x": 5.361023989102973e-15,
+    "x": 5.361023989102974e-15,
     "y": 0
   },
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

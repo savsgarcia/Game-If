@@ -35,6 +35,7 @@
     "string": "Rondas ganadas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A17C7526-4F00-420C-812B-9AA88E64830B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 471
   },
   "glyphBounds": "{{1, 3}, {110, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "88F33814-9D6B-4E70-9C42-73E7816B0AA3",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BDDFB2EE-FDB9-43C1-8C53-960299AF794B",
@@ -102,7 +104,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }
