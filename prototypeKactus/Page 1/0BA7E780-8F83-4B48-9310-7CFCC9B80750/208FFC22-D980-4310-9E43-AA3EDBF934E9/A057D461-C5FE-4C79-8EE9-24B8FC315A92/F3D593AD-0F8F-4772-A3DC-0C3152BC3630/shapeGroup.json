@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "EE3644C0-5594-4A9D-92CF-185DDAC4B76E",
+  "do_objectID": "F3D593AD-0F8F-4772-A3DC-0C3152BC3630",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3C6BB1D1-FD4E-4696-8100-30EC44FED03F",
+    "do_objectID": "43291919-5FFE-4EE8-8F81-12C108CBDF42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,31 +16,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "18BA14FD-97E0-4717-B51C-4C1C5EA6A735",
-    "height": 27,
-    "width": 50,
+    "do_objectID": "57C3076B-0EB4-42CC-BA40-22B1859DAA53",
+    "height": 40,
+    "width": 60,
     "x": 0,
-    "y": 0
+    "y": 18
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "AF512905-18E0-496D-976E-A35FD35E0E09"
+      "id": "F9719032-F747-403B-89BE-82105C085A31"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 10 Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 180,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -60,13 +60,7 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "9DFBCFB2-712E-47D9-91B5-6C436DEC5ED9",
-      "opacity": 0.09447544642857143
-    },
-    "do_objectID": "3DE86460-C003-44E1-9726-240F95285760",
+    "do_objectID": "6B6A17EF-2448-4006-BB4C-ECAFAF99AEB0",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,23 +84,23 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 10,
         "color": {
           "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.8911830357142857,
-          "green": 0.8911830357142857,
-          "red": 0.8911830357142857
+          "alpha": 0.08755095108695653,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 2,
-        "spread": 0
+        "spread": -2
       }
     ],
     "startMarkerType": 0,

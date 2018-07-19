@@ -31,13 +31,12 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "83383B04-74CC-406C-8123-5A1988B69D33",
     "gridSize": 10,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 5
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

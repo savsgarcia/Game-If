@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 18
+              "size": 16
             }
           },
           "kerning": 0,
@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "¡Ganaste esta ronda!"
+    "string": "¡Terminó está ronda!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,10 +54,10 @@
     "do_objectID": "867B212D-41A5-471E-9659-E6B9BFC37A70",
     "height": 20,
     "width": 182,
-    "x": 97,
-    "y": 69
+    "x": 89,
+    "y": 73
   },
-  "glyphBounds": "{{2, 5}, {178, 18}}",
+  "glyphBounds": "{{11, 4}, {160, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "¡Ganaste esta ronda!",
+  "name": "¡Terminó está ronda!",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 18
+            "size": 16
           }
         },
         "kerning": 0,

@@ -31,9 +31,8 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "B7F70CAE-B063-4E26-B0BC-2F714B765585",
     "gridSize": 10,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 5
   },
   "hasBackgroundColor": true,

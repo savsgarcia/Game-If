@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.09019607843137255,
-            "green": 0.5019607843137255,
-            "red": 0.2156862745098039
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "12pts"
+    "string": "120 Puntos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "53D3A9F5-725A-4986-A521-36FD0AEBC5C0",
     "height": 27,
-    "width": 53,
-    "x": 158,
-    "y": 194
+    "width": 107,
+    "x": 127,
+    "y": 133
   },
-  "glyphBounds": "{{1, 6}, {52, 20}}",
+  "glyphBounds": "{{1, 6}, {106, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "12pts",
+  "name": "120 Puntos",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09019607843137255,
-          "green": 0.5019607843137255,
-          "red": 0.2156862745098039
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

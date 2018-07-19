@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1491429440255821,
-            "green": 0.4054793792517007,
-            "red": 0.1918076360299293
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "RETO PERSONAL"
+    "string": "RETO POR EQUIPO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "CCCBCBE5-F010-4AF2-9548-6703D1CE9C9F",
     "height": 17,
-    "width": 98,
-    "x": 139,
+    "width": 109,
+    "x": 126,
     "y": 41
   },
-  "glyphBounds": "{{1, 4}, {97, 10}}",
+  "glyphBounds": "{{1, 4}, {108, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "RETO PERSONAL Copy 2",
+  "name": "RETO POR EQUIPO",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,9 +84,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1491429440255821,
-          "green": 0.4054793792517007,
-          "red": 0.1918076360299293
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

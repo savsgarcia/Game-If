@@ -29,8 +29,14 @@
     "x": 659,
     "y": 1260
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,11 +60,7 @@
     },
     {
       "class": "group",
-      "id": "E7EC4C03-0CE3-4C9B-831C-F496F2D52727"
-    },
-    {
-      "class": "text",
-      "id": "3144945B-5E07-4FEC-AC9A-8DB82D02ECD7"
+      "id": "208FFC22-D980-4310-9E43-AA3EDBF934E9"
     },
     {
       "class": "text",
@@ -75,6 +77,10 @@
     {
       "class": "text",
       "id": "9C8268C9-E178-4D85-BFE9-BB4A818BBB58"
+    },
+    {
+      "class": "text",
+      "id": "4328BA55-9028-4B3C-846F-BCCBC191E343"
     },
     {
       "class": "group",
@@ -101,14 +107,6 @@
       "id": "26DF2C58-C37C-4101-BB43-7F638DF844C3"
     },
     {
-      "class": "group",
-      "id": "2864D024-E505-40E9-8846-DD12A681551A"
-    },
-    {
-      "class": "group",
-      "id": "3346CFFA-BF6E-456E-96AB-ED811BE7994B"
-    },
-    {
       "class": "text",
       "id": "2FC1B4E6-B2F3-4355-A2B9-1FFF05138744"
     },
@@ -130,14 +128,6 @@
     },
     {
       "class": "text",
-      "id": "AC5A271E-3D2C-4F97-AAB0-E2BEB62CD0B3"
-    },
-    {
-      "class": "text",
-      "id": "BD5E19F9-606D-4F9A-9595-FF5BE068C316"
-    },
-    {
-      "class": "text",
       "id": "3E6D0D90-B9ED-468F-B6DD-678F4FC3815D"
     },
     {
@@ -155,18 +145,6 @@
     {
       "class": "text",
       "id": "5BF8D1B8-CC25-4303-9D01-0F83BDC9DE9C"
-    },
-    {
-      "class": "group",
-      "id": "3B917AAB-6C90-4CE4-86EE-0970FBF52C61"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C5EA7461-68F1-4E13-8E14-CB2E5BF6F5BA"
-    },
-    {
-      "class": "group",
-      "id": "CF2B7B96-6A7F-490C-9D03-6CF288E98BDC"
     }
   ],
   "name": "¡Ganaste! Copy 2",

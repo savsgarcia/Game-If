@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "B78FB6F8-0DDF-4DCC-8E50-C4EA0FDF8D49",
+  "do_objectID": "3EFBC0E5-2363-4F57-A42E-D4BD54FC616E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BC4D4E98-A155-4B40-B3E4-8617CC01AF18",
+    "do_objectID": "163645C1-30FD-4D44-A244-F1A3D9149A06",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C088D4C1-9EA2-438E-8CA7-CAA985734C4B",
-    "height": 230,
-    "width": 378,
-    "x": -8,
-    "y": 22.99999999999994
+    "do_objectID": "702BD787-5D25-4AA0-85A5-B6D02179D442",
+    "height": 40,
+    "width": 60,
+    "x": 156,
+    "y": 18
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "717CC96F-2468-49E9-AE8C-4B1F66FEEB7C"
+      "id": "C763EC22-3B3C-4D2B-9F4E-E0EB638E565C"
     }
   ],
-  "name": "Rectangle 4",
+  "name": "Rectangle 10 Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,7 +60,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "F724D873-E7E8-4C18-82A5-122DEFF78708",
+    "do_objectID": "A14BDBEB-5C5F-4057-928B-D1AFF53C972C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,42 +68,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4743033475851944,
-          "green": 0.8393654336734694,
-          "red": 0.270266793777318
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.52380952380952384, 0.31648516414141414}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.9288928098808998,
-                "green": 0.5691270220825427,
-                "red": 0.4807648304950895
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8393654336734694,
-                "green": 0.270266793777318,
-                "red": 0.4105117201511825
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -112,6 +81,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.08755095108695653,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": -2
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
