@@ -24,9 +24,7 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -54,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1940D894-5E30-47F7-814E-66D82DC8A0F2",
-    "height": 32,
+    "height": 33,
     "width": 183,
-    "x": 89,
-    "y": 176
+    "x": 84,
+    "y": 170
   },
-  "glyphBounds": "{{1, 5}, {181, 25}}",
+  "glyphBounds": "{{1, 7}, {181, 25}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -69,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "¡Vamos equipo!",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -78,10 +76,10 @@
     "do_objectID": "FA78C50B-8B70-44A9-8A13-794FB93606F4",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C86C9F4F-8843-4817-9A04-D01D594AD3D0",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "EF3BE210-DFF1-4263-9223-81170E66F6AA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -101,15 +99,13 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

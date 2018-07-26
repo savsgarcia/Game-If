@@ -78,10 +78,10 @@
     "do_objectID": "BCC7951C-6F84-44E5-9E98-78066CE0135A",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "95B5A73C-2769-40E2-992B-B5D5DCB3049C",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "2BBDF245-62CB-4F00-B4FC-8015A8D947B9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

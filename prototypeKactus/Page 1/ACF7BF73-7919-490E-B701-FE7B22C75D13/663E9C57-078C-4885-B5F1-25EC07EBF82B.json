@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BEBDEBF-7DEA-4473-A6EA-40A3FAF845C0",
-    "height": 24,
-    "width": 120,
-    "x": 40,
-    "y": 72
+    "height": 20,
+    "width": 110,
+    "x": 46,
+    "y": 74
   },
-  "glyphBounds": "{{29, 4}, {63, 11}}",
+  "glyphBounds": "{{24, 4}, {63, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

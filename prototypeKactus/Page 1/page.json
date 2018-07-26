@@ -19,12 +19,6 @@
     "x": 0,
     "y": 0
   },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 8,
-    "isEnabled": false,
-    "thickGridTimes": 8
-  },
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -127,6 +121,26 @@
     {
       "class": "group",
       "id": "221533C6-E1C5-4B04-BCEC-D2B9DCD07C82"
+    },
+    {
+      "class": "slice",
+      "id": "918F8F5F-DD45-4A26-BBF0-47A8F928A0BF"
+    },
+    {
+      "class": "slice",
+      "id": "C40A44BF-3F28-4926-8160-820E982AAF79"
+    },
+    {
+      "class": "slice",
+      "id": "DC3008E0-51BD-4B10-91C4-A195C81F8BD3"
+    },
+    {
+      "class": "slice",
+      "id": "004305CD-158D-46CD-A921-7AEFE76BE36C"
+    },
+    {
+      "class": "slice",
+      "id": "2127DAF1-D58B-4CDA-808B-92E3697539C7"
     }
   ],
   "name": "Page 1",

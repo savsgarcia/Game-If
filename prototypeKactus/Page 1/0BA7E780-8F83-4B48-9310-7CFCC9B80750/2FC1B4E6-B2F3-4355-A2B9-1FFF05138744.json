@@ -52,10 +52,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B9D8DB1F-8514-4681-9D8A-224FF78EC013",
-    "height": 25,
-    "width": 152,
-    "x": 56,
-    "y": 344
+    "height": 29,
+    "width": 151,
+    "x": 57,
+    "y": 353
   },
   "glyphBounds": "{{0, 4}, {106, 14}}",
   "isFixedToViewport": false,
@@ -76,10 +76,10 @@
     "do_objectID": "A9DB7D40-A194-43BC-A4BA-2AEC525DE644",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8400BDE7-FDDB-44EE-B4DA-3433E02E27B8",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B19B3F0F-D986-4080-B987-2C4F68F11AE2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
