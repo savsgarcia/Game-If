@@ -30,11 +30,11 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": false,
+    "isEnabled": true,
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "B78FB6F8-0DDF-4DCC-8E50-C4EA0FDF8D49"
+      "class": "group",
+      "id": "EE5FA388-1200-4D51-995D-09731B0A13AD"
     },
     {
       "class": "text",
@@ -121,35 +121,31 @@
       "id": "04749B6F-EA7E-407E-8225-227E75F525A1"
     },
     {
+      "class": "symbolInstance",
+      "id": "DB3AD5C2-C9D6-4DFF-AB71-F6518206E148"
+    },
+    {
       "class": "text",
-      "id": "917010B3-D674-4E9E-9744-096C85D4FA5F"
+      "id": "2A035720-3D2F-4594-B7AF-6001636A1E00"
+    },
+    {
+      "class": "text",
+      "id": "2E417A42-CE57-4DE8-AD53-0E1F60ED4BBC"
     },
     {
       "class": "group",
       "id": "FBFAD145-3012-46A0-9CAE-923BF773F242"
     },
     {
-      "class": "group",
-      "id": "0F0F99A9-F0BB-4B15-A2F3-BCD31FEBD515"
+      "class": "text",
+      "id": "917010B3-D674-4E9E-9744-096C85D4FA5F"
     },
     {
-      "class": "shapeGroup",
-      "id": "C6FD8FD5-7BD7-48C9-9AEA-1B54231A0387"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ED76C775-E4C2-4A5D-A0B7-6CAF25EFA807"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "78F28376-3A42-442E-8806-465D6A2B3F8F"
-    },
-    {
-      "class": "group",
-      "id": "638460E6-C494-486D-B6DA-BFEC5622F0E3"
+      "class": "symbolInstance",
+      "id": "B794C8C2-F979-46D2-8650-E8919CD67F44"
     }
   ],
-  "name": "¡Ganaste! Copy 2",
+  "name": "TerminoRonda",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

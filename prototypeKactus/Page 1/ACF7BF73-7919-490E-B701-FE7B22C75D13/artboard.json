@@ -28,6 +28,12 @@
     "x": -193,
     "y": 1260
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
@@ -52,8 +58,8 @@
       "id": "F63A2951-7B69-42B3-B78B-8783FBC34EF5"
     },
     {
-      "class": "shapeGroup",
-      "id": "E1C51E26-12C0-4C0A-92CE-6BC18D623B22"
+      "class": "group",
+      "id": "60A29605-0EED-4F50-8AB8-28127A846FCF"
     },
     {
       "class": "text",
@@ -81,30 +87,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "FA47CBE2-C98F-4272-B06A-EECA356E0820"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "17F3F673-3D6C-4FA8-9804-4F2B595676D9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F6D9713F-0477-4134-BF55-209B406D122F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CBEB48C4-2ADD-432B-9BD6-422B2B61394C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "925C9A76-161C-4AC0-A9CD-8E44EF141ECD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "31087C53-C8F4-48B6-9F1F-E819CC6BFA00"
-    },
-    {
-      "class": "shapeGroup",
       "id": "9EEB8BD0-50EC-4809-8819-9A14EF29C125"
     },
     {
@@ -112,11 +94,19 @@
       "id": "663E9C57-078C-4885-B5F1-25EC07EBF82B"
     },
     {
-      "class": "group",
-      "id": "65184975-A3E6-4850-80DF-37CA159E9C2B"
+      "class": "symbolInstance",
+      "id": "300C8682-1D10-4A35-9849-E54CCBD926ED"
+    },
+    {
+      "class": "text",
+      "id": "3F72F578-6D1E-454D-8065-EABD61C24D15"
+    },
+    {
+      "class": "text",
+      "id": "22082282-C013-4AF4-81A0-4BC9A73DAB7F"
     }
   ],
-  "name": "Reto previo (1)",
+  "name": "Loading",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -125,7 +115,7 @@
     "offersLandscapeVariant": 1,
     "width": 360
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

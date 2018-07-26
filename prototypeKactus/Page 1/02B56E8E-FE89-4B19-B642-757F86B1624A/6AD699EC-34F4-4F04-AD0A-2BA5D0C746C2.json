@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8764349489795918,
-            "green": 0.6413668237551294,
-            "red": 0.6413668237551294
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -55,9 +57,9 @@
     "height": 17,
     "width": 120,
     "x": 120,
-    "y": 165
+    "y": 159
   },
-  "glyphBounds": "{{6, 4}, {108, 12}}",
+  "glyphBounds": "{{6, 8}, {108, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -76,17 +78,17 @@
     "do_objectID": "9685E673-C3A9-473E-A731-18FD4951335E",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "8F341BCA-3C7C-4309-86F4-73C9D94F40AB",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "807B6EA6-4B6A-4AAD-8142-7725295E2466",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8764349489795918,
-          "green": 0.6413668237551294,
-          "red": 0.6413668237551294
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -99,11 +101,13 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

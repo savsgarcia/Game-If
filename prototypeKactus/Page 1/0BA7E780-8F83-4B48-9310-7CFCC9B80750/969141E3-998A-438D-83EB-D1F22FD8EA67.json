@@ -30,38 +30,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 75,
+        "length": 83,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.5948926445578231,
-            "green": 0.4448506440166727,
-            "red": 0.3932737063306521
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 8,
-        "location": 75
       }
     ],
     "string": "Para seguir ayudando a tu equipo a avanzar en la competencia debes esperar 2:00 hrs"
@@ -84,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4963F682-7FF3-4E96-B312-B430DB9C7DD3",
-    "height": 68,
-    "width": 254,
-    "x": 53,
-    "y": 490
+    "height": 64,
+    "width": 264,
+    "x": 48,
+    "y": 480
   },
-  "glyphBounds": "{{12, 5}, {230, 59}}",
+  "glyphBounds": "{{17, 5}, {230, 59}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -108,10 +78,10 @@
     "do_objectID": "5323AB83-6CFF-45BA-A8A6-3839E43143BA",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "6771CFB8-42F5-4327-BFD5-1CCC8BC2A186",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E4E70ACD-F27C-4942-B0E9-97CF47A6C505",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

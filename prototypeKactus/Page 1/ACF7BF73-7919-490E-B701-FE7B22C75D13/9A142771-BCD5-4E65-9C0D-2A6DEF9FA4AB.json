@@ -52,10 +52,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "43E3D181-F44D-4B34-9E57-A7B743C00F1A",
-    "height": 65,
+    "height": 64,
     "width": 28,
     "x": 166,
-    "y": 388
+    "y": 384
   },
   "glyphBounds": "{{2, 16}, {24, 36}}",
   "isFixedToViewport": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "3",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -76,10 +76,10 @@
     "do_objectID": "2307E3C6-244A-4FBF-871E-D600ED503C9D",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "55598782-33AE-4F21-B8E5-1605A85BE255",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C77B5A0C-DA3E-4929-9541-70C6C8A1E9BB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,9 +103,9 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

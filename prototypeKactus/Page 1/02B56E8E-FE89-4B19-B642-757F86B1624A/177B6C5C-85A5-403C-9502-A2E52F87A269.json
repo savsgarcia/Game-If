@@ -30,68 +30,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 95,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2340826955782313,
-            "green": 0.1704128304437404,
-            "red": 0.1704128304437404
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 10,
-        "location": 40
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2340826955782313,
-            "green": 0.1704128304437404,
-            "red": 0.1704128304437404
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Regular",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 45,
-        "location": 50
       }
     ],
     "string": "¿Qué esperas? El tiempo vuela. \nHace ya 12 minutos  que podías responder tu ronda de preguntas."
@@ -114,9 +54,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B976C56B-F0DE-4F93-9764-FFE101D6EC5C",
-    "height": 89,
-    "width": 235,
-    "x": 109,
+    "height": 70,
+    "width": 232,
+    "x": 112,
     "y": 362
   },
   "glyphBounds": "{{0, 4}, {221, 55}}",
@@ -138,10 +78,10 @@
     "do_objectID": "B323B399-CDB9-47C0-B1C4-85921A3A8FEE",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "F894945D-8ADB-47D4-894A-C33AC6028367",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "88E28D16-E5E6-43C7-BB74-093D91A7D525",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

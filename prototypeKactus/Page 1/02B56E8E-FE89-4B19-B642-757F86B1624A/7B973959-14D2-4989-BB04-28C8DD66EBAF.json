@@ -28,36 +28,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 13,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 10
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 9,
-        "location": 4
       }
     ],
     "string": "40% de avance"
@@ -81,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "DFC86B75-EE59-448F-9637-DA47B4EEA22E",
     "height": 19,
-    "width": 81,
-    "x": 256,
-    "y": 796
+    "width": 100,
+    "x": 228,
+    "y": 801
   },
-  "glyphBounds": "{{0, 4}, {80, 12}}",
+  "glyphBounds": "{{0, 4}, {100, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -104,10 +76,10 @@
     "do_objectID": "0E6AFA42-34C6-4222-AEE9-F128B1A4C81B",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "5BA0C9A8-6D31-463B-AB2B-9E4873596294",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "42B86EAB-4D3D-4D39-858F-5402136474C0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
