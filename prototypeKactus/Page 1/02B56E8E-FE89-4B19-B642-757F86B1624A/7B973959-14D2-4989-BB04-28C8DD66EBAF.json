@@ -45,7 +45,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 12
+              "size": 10
             }
           },
           "kerning": 0,
@@ -81,11 +81,11 @@
     "constrainProportions": false,
     "do_objectID": "DFC86B75-EE59-448F-9637-DA47B4EEA22E",
     "height": 19,
-    "width": 91,
-    "x": 252,
+    "width": 81,
+    "x": 256,
     "y": 796
   },
-  "glyphBounds": "{{0, 4}, {90, 12}}",
+  "glyphBounds": "{{0, 4}, {80, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

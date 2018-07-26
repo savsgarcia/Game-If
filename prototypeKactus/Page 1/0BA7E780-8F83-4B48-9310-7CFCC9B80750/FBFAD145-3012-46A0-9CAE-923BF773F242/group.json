@@ -18,8 +18,8 @@
     "do_objectID": "FAB45AD3-834C-4167-AE4E-5D4C834B8DC6",
     "height": 29,
     "width": 216,
-    "x": 72,
-    "y": 69
+    "x": 78,
+    "y": 65
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -42,6 +42,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.1020647321428571
+    },
     "do_objectID": "07738F91-F5B6-4C05-9A6B-E23FED46DF95",
     "endMarkerType": 0,
     "miterLimit": 10,

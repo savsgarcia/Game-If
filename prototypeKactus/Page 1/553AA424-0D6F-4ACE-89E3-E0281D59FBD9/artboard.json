@@ -12,7 +12,6 @@
   "do_objectID": "553AA424-0D6F-4ACE-89E3-E0281D59FBD9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF8ED88B-3E3E-4FD8-A98C-2BDBEEB9DF9C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -32,7 +31,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 5
   },
   "hasBackgroundColor": true,
@@ -149,7 +148,7 @@
       "id": "F279AB92-DFFB-47B5-8B7B-178EB3239A5E"
     }
   ],
-  "name": "RetoPrimeraPregunta Copy 2",
+  "name": "RetoEquipoPregunta",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

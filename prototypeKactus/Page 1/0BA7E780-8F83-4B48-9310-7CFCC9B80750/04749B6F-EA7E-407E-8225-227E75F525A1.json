@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5372549019607843,
-            "green": 0.3764705882352941,
-            "red": 0.3450980392156863
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 18
+              "name": "OpenSans-Bold",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "46BA3E0E-6124-4EA5-AF1E-CD457CE76BE6",
-    "height": 24,
-    "width": 66,
-    "x": 147,
-    "y": 576
+    "height": 19,
+    "width": 53,
+    "x": 149,
+    "y": 585
   },
-  "glyphBounds": "{{1, 5}, {63, 18}}",
+  "glyphBounds": "{{0, 4}, {52, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -84,15 +84,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5372549019607843,
-          "green": 0.3764705882352941,
-          "red": 0.3450980392156863
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-SemiBold",
-            "size": 18
+            "name": "OpenSans-Bold",
+            "size": 14
           }
         },
         "kerning": 0,

@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "221533C6-E1C5-4B04-BCEC-D2B9DCD07C82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 82,
+    "width": 83,
+    "x": 1368,
+    "y": 694
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA2A8F1D-3515-47BE-8DF1-AE5F5560BC64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4410801D-352A-422F-9EE5-6715B8130FAE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85F123E2-CF91-4B59-B753-4D1431B2E73F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BAA71BCC-7207-42CB-BCDB-921D74EA8C87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0F53594-D2FD-4028-887D-EF959F6259AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "901EB8BD-D781-461C-B2AB-9EBCC8A98206"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9A6141E-E882-42B7-8608-9CE9A15232EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84D315D1-B5F0-4346-AF08-527D7D1BCE20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF62A869-6D7B-4261-AAF4-B3ED677162D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "129EAA10-2A0F-4343-A1C9-F1A8B5644DA9"
+    },
+    {
+      "class": "group",
+      "id": "0973CC23-4308-4833-93AB-EBA1D3FC9193"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BB98E21-B0DB-44D9-9BF6-C5F2C4B520C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4EE1EDA4-E3A3-437C-8867-E282001A0B48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8B3FDA1-160A-4D6E-A3F2-D51C17E8B3DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E68FE3A7-D6B1-4B47-8057-B42A93CD0DFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA075E54-9912-4F6F-9612-8B66E027BA85"
+    }
+  ],
+  "name": "firework",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

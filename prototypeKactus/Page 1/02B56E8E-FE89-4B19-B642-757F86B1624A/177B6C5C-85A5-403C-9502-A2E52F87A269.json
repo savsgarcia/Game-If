@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5587266156462585,
-            "green": 0.3107123153771452,
-            "red": 0.3107123153771452
+            "blue": 0.2340826955782313,
+            "green": 0.1704128304437404,
+            "red": 0.1704128304437404
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -39,9 +39,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5587266156462585,
-            "green": 0.3107123153771452,
-            "red": 0.3107123153771452
+            "blue": 0.2340826955782313,
+            "green": 0.1704128304437404,
+            "red": 0.1704128304437404
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -55,8 +55,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -69,9 +69,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5587266156462585,
-            "green": 0.3107123153771452,
-            "red": 0.3107123153771452
+            "blue": 0.2340826955782313,
+            "green": 0.1704128304437404,
+            "red": 0.1704128304437404
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -85,8 +85,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -114,12 +114,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B976C56B-F0DE-4F93-9764-FFE101D6EC5C",
-    "height": 70,
+    "height": 89,
     "width": 235,
-    "x": 101,
-    "y": 360
+    "x": 109,
+    "y": 362
   },
-  "glyphBounds": "{{0, 5}, {221, 59}}",
+  "glyphBounds": "{{0, 4}, {221, 55}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -146,9 +146,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5587266156462585,
-          "green": 0.3107123153771452,
-          "red": 0.3107123153771452
+          "blue": 0.2340826955782313,
+          "green": 0.1704128304437404,
+          "red": 0.1704128304437404
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -162,8 +162,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },

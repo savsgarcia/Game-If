@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "A0F890A1-B1FF-4500-8C67-051F54CD905C",
     "height": 70,
-    "width": 341,
-    "x": 10,
+    "width": 328,
+    "x": 16,
     "y": 763
   },
   "hasClickThrough": false,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.557193023989899,
-          "red": 0.6692484577968031
+          "blue": 0.9574298469387755,
+          "green": 0.423692173624599,
+          "red": 0.4559629976225345
         },
         "fillType": 0,
         "isEnabled": true,
@@ -97,7 +97,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

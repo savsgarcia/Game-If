@@ -9,30 +9,62 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8352941176470589,
-            "green": 0.7098039215686275,
-            "red": 0.6666666666666666
+            "blue": 0.5948926445578231,
+            "green": 0.4448506440166727,
+            "red": 0.3932737063306521
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 12
+              "name": "OpenSans-Regular",
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 75,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5948926445578231,
+            "green": 0.4448506440166727,
+            "red": 0.3932737063306521
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-SemiBold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 8,
+        "location": 75
       }
     ],
-    "string": "Comenzar siguiente ronda"
+    "string": "Para seguir ayudando a tu equipo a avanzar en la competencia debes esperar 2:00 hrs"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,12 +84,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4963F682-7FF3-4E96-B312-B430DB9C7DD3",
-    "height": 20,
+    "height": 68,
     "width": 254,
-    "x": 58,
-    "y": 599
+    "x": 53,
+    "y": 490
   },
-  "glyphBounds": "{{51, 3}, {152, 13}}",
+  "glyphBounds": "{{12, 5}, {230, 59}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +97,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Comenzar siguiente r",
+  "name": "Para seguir ayudando",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -84,22 +116,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.7098039215686275,
-          "red": 0.6666666666666666
+          "blue": 0.5948926445578231,
+          "green": 0.4448506440166727,
+          "red": 0.3932737063306521
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-SemiBold",
-            "size": 12
+            "name": "OpenSans-Regular",
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },
