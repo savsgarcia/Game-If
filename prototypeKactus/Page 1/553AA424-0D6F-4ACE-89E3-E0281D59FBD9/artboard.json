@@ -146,6 +146,14 @@
     {
       "class": "shapeGroup",
       "id": "F279AB92-DFFB-47B5-8B7B-178EB3239A5E"
+    },
+    {
+      "class": "slice",
+      "id": "C40A44BF-3F28-4926-8160-820E982AAF79"
+    },
+    {
+      "class": "slice",
+      "id": "004305CD-158D-46CD-A921-7AEFE76BE36C"
     }
   ],
   "name": "RetoEquipoPregunta",

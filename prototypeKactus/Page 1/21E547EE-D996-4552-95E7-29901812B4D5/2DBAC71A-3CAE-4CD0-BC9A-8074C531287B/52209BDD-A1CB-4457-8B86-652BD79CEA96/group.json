@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "52209BDD-A1CB-4457-8B86-652BD79CEA96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BBC9FE9-504C-400D-B85D-E1C9EDC68B73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD96A20D-EFD0-498E-BFE7-7C1AD315C7B2",
+    "height": 44,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7BBDC34-F3A9-4C1C-BA9B-8EC99A7F4DB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2885EC9-D787-4879-9FB9-4EAC8A62443E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3676CBF8-6499-44EE-83BF-A6B8CF5235BA"
+    },
+    {
+      "class": "group",
+      "id": "97B67BAE-82CB-4A8D-925F-BD33EDB2B205"
+    },
+    {
+      "class": "group",
+      "id": "F2E072B6-8911-4ECF-A80A-A7CABABF1CCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A0B9EC3-6C11-4147-ACA4-526F4B43337D"
+    },
+    {
+      "class": "group",
+      "id": "B2D92ED6-C681-423E-A6D8-35FA2918B4A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5872EA0B-BBBE-4AA3-8F01-86000A4A0813"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9C6CAA2-DA05-494C-98C7-398A2BB65EF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DE0F095-5431-446A-A2C2-1DA046BCBE55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4EC2FD10-F3B6-446E-9D13-AE2072A2A977"
+    }
+  ],
+  "name": "trekking",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55BA6BE0-9D89-45C9-851F-4EFB6C0520B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4DF2A872-0996-4A80-8D83-56BAC8AB3D16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BD81E62-4E63-4F45-8344-AFFFEC96E254",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F98294CC-BF24-4C69-A26D-E327C9F37BCA",
+    "height": 125,
+    "width": 365,
+    "x": -3,
+    "y": 25
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header/background/global-bg",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56FA8D96-E133-474C-BEBF-A396EB05A8B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5909D899-31AC-4952-B4C0-2870E8EF3E82",
+  "verticalSpacing": 0
+}

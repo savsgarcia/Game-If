@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "219925EC-555E-4F7A-8FD6-7019AE12EA81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C0C7A59-749D-4533-B619-D717C69B78A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7306F65D-587D-488D-91B1-81C28D76F3E6",
+    "height": 44,
+    "width": 34,
+    "x": 24,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CF5C02D-8BF8-46C9-87FA-15CA0D86017E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "297B3832-81F4-4EF8-B8F8-B46220F4392E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E7A530E-3F9E-4352-B129-CB6004777D64"
+    },
+    {
+      "class": "group",
+      "id": "C421603C-9328-4397-9935-DB46900E02B0"
+    },
+    {
+      "class": "group",
+      "id": "BCB6B9CF-645D-41F8-82BF-0532D5555248"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "008AEE1B-07F2-4DC5-A423-EACB4D633659"
+    },
+    {
+      "class": "group",
+      "id": "622C8A1C-FA04-4BBB-825E-DE0705D78F7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D7DBFFA-19DD-40D2-8713-296803BB12BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E4B8E41-34F2-45E1-9FF0-E2FDEEA83BE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1F04511-54D4-4C83-B79B-7028CD178D5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B170BE0-84B8-4925-BCB8-242F8872BA22"
+    }
+  ],
+  "name": "trekking copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D275A4FE-FC90-4953-A90B-A8F53B622F1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

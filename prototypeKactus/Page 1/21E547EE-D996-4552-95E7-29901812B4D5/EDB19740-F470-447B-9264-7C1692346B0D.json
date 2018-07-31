@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EDB19740-F470-447B-9264-7C1692346B0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "992A00A9-5F1C-4250-A1D7-50D0196314BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "977254A4-EA32-47B3-A537-247457E83C0C",
+    "height": 63,
+    "width": 64,
+    "x": 32,
+    "y": 361
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Rocket",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4420FEC-E997-4C10-98AC-C8C378342B51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39927EA3-A552-4A77-92F4-B6EC020AD2FA",
+  "verticalSpacing": 0
+}

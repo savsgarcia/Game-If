@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FAD5E481-8297-4385-B952-DF79388434C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1323488B-5CF5-4208-B40C-E16AB54C3963",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B377B68-5579-47E1-9A5B-A5AF5539D2CF",
+    "height": 44,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F92A0AAC-920B-4E0F-A714-F4CC18A3BEEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66DD9B07-403E-48B2-8962-503DC4E7F21C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35DDC82A-AA62-420C-BF66-7910EA6EFB4A"
+    },
+    {
+      "class": "group",
+      "id": "2D226946-E2BE-4346-8A90-263F563D607B"
+    },
+    {
+      "class": "group",
+      "id": "8B403384-DFA2-4218-A901-AC96C83AC614"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "086C9AEC-476F-41EF-80D4-C99BE2BA5AF9"
+    },
+    {
+      "class": "group",
+      "id": "DD904776-02C1-4F6D-8DD3-9283E4A0EAD1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B810AD59-BE2A-465F-B751-15EDD9730C15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5554158C-AF25-47B6-A7AE-AB9D755F8B53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0003CF2-09DC-448B-B15D-75922C2923BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF3011B6-EE23-4760-A7BF-C41DD157B834"
+    }
+  ],
+  "name": "trekking",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84249601-5F8E-4AAA-BD41-AA38837104BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

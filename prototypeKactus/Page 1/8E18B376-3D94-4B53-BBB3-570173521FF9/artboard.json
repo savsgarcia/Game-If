@@ -175,6 +175,14 @@
     {
       "class": "text",
       "id": "1C06170F-46BE-4FFD-94A8-7575A37EC41F"
+    },
+    {
+      "class": "slice",
+      "id": "DC3008E0-51BD-4B10-91C4-A195C81F8BD3"
+    },
+    {
+      "class": "slice",
+      "id": "2127DAF1-D58B-4CDA-808B-92E3697539C7"
     }
   ],
   "name": "RetoEquipoPreguntaFeedback",

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "837E0898-2069-417C-B9EE-F746D1FA0ADF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AB07F0E-FC9B-4B5E-A99E-DD78CF90BD0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A87B808-8815-45CB-96A8-2EAE9F89E600",
+    "height": 44,
+    "width": 34,
+    "x": 24,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3AEE2033-F79C-4B4C-B35F-0CB3A7C270AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20AA9F02-813E-497A-8274-54543ECC57AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DE6BCFC-5988-4E25-B50F-097B62088BB9"
+    },
+    {
+      "class": "group",
+      "id": "1287AB10-DFE5-4FCD-A75B-EB10A8A507D2"
+    },
+    {
+      "class": "group",
+      "id": "D85A8235-BBC6-49AA-B275-A7B854F09418"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF7B280E-9AC0-4FF6-B1DE-E8F4FCC2E1CF"
+    },
+    {
+      "class": "group",
+      "id": "454113D7-E634-44AC-9DF9-52EFEA03A087"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67A9E5F4-C04E-4ACE-9A33-71E25B652CD5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47FC5F8F-74AB-4983-9984-032520376417"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "887D42CC-F141-4096-A454-992276A9E8C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7F26F91-1AF6-426B-9262-C0701A9D0BDD"
+    }
+  ],
+  "name": "trekking copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA7A6CD7-9876-4536-9BC6-A4C611A35C78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
