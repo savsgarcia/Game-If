@@ -29,11 +29,11 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -261,6 +261,10 @@
     {
       "class": "group",
       "id": "D4403C71-135F-467A-927E-82B91B8731E2"
+    },
+    {
+      "class": "text",
+      "id": "672AC2FC-DA30-4AFC-ABE1-3512B2E4A184"
     }
   ],
   "name": "Modal",

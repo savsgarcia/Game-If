@@ -54,7 +54,7 @@
     "do_objectID": "C9FDA723-0667-44EB-A9AD-25EC2E9BAFEB",
     "height": 22,
     "width": 64,
-    "x": 152,
+    "x": 148,
     "y": 450
   },
   "glyphBounds": "{{3, 4}, {58, 16}}",
@@ -76,10 +76,10 @@
     "do_objectID": "E72DC64D-9094-4EF7-86FB-7EB57C8C8757",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "B7DC4350-20F3-42B7-8917-A8C99E760528",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D8675FDE-CB72-49A6-A517-F4DE8A740198",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

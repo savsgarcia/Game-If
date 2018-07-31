@@ -28,36 +28,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 18,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6638499149659864,
-            "green": 0.320491462853785,
-            "red": 0.3656702065527587
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 17
       }
     ],
     "string": "Ganador del reto: "
@@ -83,9 +55,9 @@
     "height": 25,
     "width": 264,
     "x": 48,
-    "y": 439
+    "y": 441
   },
-  "glyphBounds": "{{73, 6}, {118, 12}}",
+  "glyphBounds": "{{73, 4}, {118, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -104,10 +76,10 @@
     "do_objectID": "F55FE14C-8258-4BEC-B310-ECB1E0E3ECAD",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "0995ECE7-7903-4ADD-A4B6-C86D880DEF92",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "62E446D9-E8D7-46BE-A77A-4A7CA97F3D40",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

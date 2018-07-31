@@ -32,15 +32,15 @@
         "location": 0
       }
     ],
-    "string": "¡Termino el reto!"
+    "string": "¡Ganaron el reto!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "BE7409E1-54BB-4E5A-A5CF-2545EBC566CB",
+  "do_objectID": "672AC2FC-DA30-4AFC-ABE1-3512B2E4A184",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "625532B5-184D-40A8-B623-AA0470FF92C2",
+    "do_objectID": "9FF46315-F80A-4A8A-93B8-E5909037649F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5AF95BDC-6CEB-4761-8E99-6407365F9CE0",
+    "do_objectID": "B5B6D481-00CB-406E-84E6-4FFF324BB2A3",
     "height": 47,
     "width": 170,
-    "x": 0,
-    "y": 1
+    "x": 93,
+    "y": 263
   },
-  "glyphBounds": "{{19, 4}, {132, 16}}",
+  "glyphBounds": "{{18, 4}, {134, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "¡Termino el reto!",
+  "name": "¡Ganaron el reto!",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "770DFAFC-72CA-4238-904E-8DDCE7A7F8DD",
+    "do_objectID": "7B74F6C2-3BF2-4649-8A36-EECBD65F8420",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "FED65DC7-BDA4-46A7-B046-9BDE11A17858",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "68C6C1A1-3310-4CD7-8504-54DDA8FB0F1D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

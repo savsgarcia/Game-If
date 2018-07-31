@@ -33,11 +33,11 @@
     "_class": "simpleGrid",
     "do_objectID": "11FDC9E9-8D3D-411D-8D5F-0CC646571B4E",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -274,6 +274,10 @@
     {
       "class": "group",
       "id": "B84EE4EF-0849-4468-82A4-8F5FFF9374A5"
+    },
+    {
+      "class": "text",
+      "id": "A7CE6875-7004-4613-944A-106B4FC54628"
     }
   ],
   "name": "Modal No ganaste",

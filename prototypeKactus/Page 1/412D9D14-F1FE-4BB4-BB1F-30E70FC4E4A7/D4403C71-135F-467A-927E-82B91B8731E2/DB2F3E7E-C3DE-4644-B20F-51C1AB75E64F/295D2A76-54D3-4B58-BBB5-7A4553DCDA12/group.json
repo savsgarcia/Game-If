@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E0BCBD5C-FDE2-4F90-B0F8-4259F91D070C",
-    "height": 48,
+    "height": 47,
     "width": 170,
     "x": 23,
     "y": 0
@@ -32,10 +32,6 @@
     {
       "class": "shapeGroup",
       "id": "FAD57FDE-7B66-4260-98C1-F9592AD14C02"
-    },
-    {
-      "class": "text",
-      "id": "AC2A7F61-AF4B-4014-9293-6F115CA3E815"
     }
   ],
   "name": "Group 5 Copy",
