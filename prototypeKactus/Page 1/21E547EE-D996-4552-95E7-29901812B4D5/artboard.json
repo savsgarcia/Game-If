@@ -26,8 +26,8 @@
     "do_objectID": "FCB899CD-A9EB-4168-A857-4DA1F44828F3",
     "height": 640,
     "width": 360,
-    "x": 1628,
-    "y": 519
+    "x": 288,
+    "y": 2319
   },
   "grid": {
     "_class": "simpleGrid",
@@ -274,18 +274,6 @@
     {
       "class": "group",
       "id": "B84EE4EF-0849-4468-82A4-8F5FFF9374A5"
-    },
-    {
-      "class": "text",
-      "id": "151C1507-4BEB-45A4-8D17-578A2C995711"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FFC4C534-5119-4B04-A3C0-4B1910ECCEEC"
-    },
-    {
-      "class": "group",
-      "id": "1314808A-CE2A-4E98-B3B0-9E29E65164E5"
     }
   ],
   "name": "Modal No ganaste",
