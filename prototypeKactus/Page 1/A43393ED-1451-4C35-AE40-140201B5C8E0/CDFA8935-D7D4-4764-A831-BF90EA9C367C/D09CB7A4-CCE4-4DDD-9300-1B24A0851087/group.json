@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D09CB7A4-CCE4-4DDD-9300-1B24A0851087",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "480D7C05-24E2-49DB-9D1B-891712982554",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3231E28-3732-49FE-B21B-CC941CED5B1E",
+    "height": 44,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "78C0FFC2-A878-455A-B98A-FAE69F394DA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F70C1D67-172D-435E-BA19-E6AC091394CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64D9C671-C588-480E-A267-A419F7B7A33E"
+    },
+    {
+      "class": "group",
+      "id": "66B0FD23-5C48-4390-8583-03483593072A"
+    },
+    {
+      "class": "group",
+      "id": "73890609-C2BC-40AB-BCFB-A3AB9BB40FCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E0DE55F-92E1-41A2-84D9-B88A5465ED93"
+    },
+    {
+      "class": "group",
+      "id": "D349A1BF-3345-49AB-BF22-4F3C33C50BD5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE1AFEA6-8BAA-4C1B-BBE1-9F84B5F00B4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A5B9E97-0A8B-4E59-B4C4-B9A2A1B8F07E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BF752C7-BCC3-4AA8-836A-197787E2E6B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29371C20-B612-4DA9-BD5E-96AD20114240"
+    }
+  ],
+  "name": "trekking",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DB10B3D-9DC6-4CEE-A2C2-1FA04835E3DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

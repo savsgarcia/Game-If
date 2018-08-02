@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8FA6EF36-FDD7-42EA-A9F8-85ED1F01A391",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50B5031A-740E-4EF0-9E73-2CF1AB0EC8CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "541712AA-CD3E-4C44-8FF7-5F49AB6F9382",
+    "height": 66,
+    "width": 63,
+    "x": 337,
+    "y": 694
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/trophy Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81F99A7B-E917-4DF0-863A-9CCCA9396ECD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C8A8884-5631-42DD-8061-2B82CDF6AEE5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DF509D92-C5C2-4929-89F6-EABCB4A0F657",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4CAB519-D8CF-461E-A1FB-4876EB92DE73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "454E85D8-767B-45D1-A801-0049C1C0FDA2",
+    "height": 277,
+    "width": 637,
+    "x": -141,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6F4C7E71-640D-47B6-BF4F-EB884E7F4ABB"
+    },
+    {
+      "class": "group",
+      "id": "40F616D4-D9CA-4C27-9162-D0597C0AD52F"
+    },
+    {
+      "class": "group",
+      "id": "38F88388-6B3A-47D1-9AF2-A31500700673"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA478BF7-0B1C-43CA-9E02-D2DAC18CCA2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "696E1A94-4242-4545-992D-4FF820888B2C"
+    }
+  ],
+  "name": "Team-BG",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "472F5A13-DE60-4E41-B48C-DA435E449DBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

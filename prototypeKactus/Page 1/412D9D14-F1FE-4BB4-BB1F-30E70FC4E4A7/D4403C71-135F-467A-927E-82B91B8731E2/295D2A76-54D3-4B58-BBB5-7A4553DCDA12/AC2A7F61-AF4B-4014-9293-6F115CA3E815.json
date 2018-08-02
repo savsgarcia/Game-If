@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 18
             }
           },
           "kerning": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "¡Ganaron el reto!"
+    "string": "¡Felicidades!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,9 +55,9 @@
     "height": 47,
     "width": 170,
     "x": 0,
-    "y": 1
+    "y": 0
   },
-  "glyphBounds": "{{18, 4}, {134, 16}}",
+  "glyphBounds": "{{31, 5}, {108, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "¡Ganaron el reto!",
+  "name": "¡Felicidades!",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 18
           }
         },
         "kerning": 0,

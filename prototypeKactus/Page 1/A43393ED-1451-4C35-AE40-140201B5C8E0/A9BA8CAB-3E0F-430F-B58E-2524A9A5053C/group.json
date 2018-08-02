@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A9BA8CAB-3E0F-430F-B58E-2524A9A5053C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F0BE128-7C03-4DE8-9034-83CF05CD430D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA46E31B-5BFA-464B-B2FF-99E823DAB171",
+    "height": 40,
+    "width": 40,
+    "x": 40,
+    "y": 424
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67E0F6E6-4BED-4280-89D5-987B9A40E533"
+    },
+    {
+      "class": "group",
+      "id": "BEB80844-F0C7-4CB1-A8A3-07AFDD14B5D7"
+    }
+  ],
+  "name": "Team-BG Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFEB8D58-B10D-4FC7-9B9D-19419B0B9343",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

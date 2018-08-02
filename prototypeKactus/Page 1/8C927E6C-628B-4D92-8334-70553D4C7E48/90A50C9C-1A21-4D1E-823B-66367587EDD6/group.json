@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "90A50C9C-1A21-4D1E-823B-66367587EDD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62997E05-E202-438E-97EE-93533ED11C8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67D5FDE5-8979-4FB3-BC21-E8192FF76C0E",
+    "height": 28,
+    "width": 24,
+    "x": 23,
+    "y": 630
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "42C48BC2-CA0B-48EA-A744-75E6ABFC97AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97815C06-E90A-4AB6-8B57-8154D0DD6468"
+    },
+    {
+      "class": "group",
+      "id": "2BD93384-156E-43EA-82C6-E798BCF51E2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1ED7150C-5E90-4C04-9ADE-B4C5F86ECF77"
+    }
+  ],
+  "name": "medal copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "166C2C85-032E-48C5-9211-D77872E413BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

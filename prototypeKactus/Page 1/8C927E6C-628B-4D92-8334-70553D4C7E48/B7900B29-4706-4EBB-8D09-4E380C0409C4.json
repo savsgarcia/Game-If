@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B7900B29-4706-4EBB-8D09-4E380C0409C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65CB6D71-FFFE-49E8-8FCB-625C8A5EE8D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5661C46C-1650-425F-B9D7-09550A3A310B",
+    "height": 43,
+    "width": 40,
+    "x": 40,
+    "y": 453
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "trophy copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F1EDD38-3BC8-4C5D-B172-70748C3345D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98142409-F532-46FD-88F7-205AB03A2ADF",
+  "verticalSpacing": 0
+}

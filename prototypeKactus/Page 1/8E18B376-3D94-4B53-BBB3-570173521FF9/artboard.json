@@ -32,11 +32,11 @@
     "_class": "simpleGrid",
     "do_objectID": "DF0576B8-26C7-404A-8BBE-A78B49706E7C",
     "gridSize": 10,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 5
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

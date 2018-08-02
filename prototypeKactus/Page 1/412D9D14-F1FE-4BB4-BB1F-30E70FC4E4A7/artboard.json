@@ -12,6 +12,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,8 +32,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": -193,
-    "y": 2319
+    "x": 334,
+    "y": 519
   },
   "grid": {
     "_class": "simpleGrid",
@@ -223,6 +232,10 @@
       "id": "A5C74380-D05D-45FC-8EB8-C583BB47AF21"
     },
     {
+      "class": "shapeGroup",
+      "id": "88D93BBB-EB11-4E37-9DB9-8914EB73CD99"
+    },
+    {
       "class": "text",
       "id": "AB65854F-37E3-4C8C-B501-C645616550B0"
     },
@@ -239,12 +252,44 @@
       "id": "3A47BD23-1D8F-41AE-8775-0EC442CA4DE2"
     },
     {
-      "class": "shapeGroup",
-      "id": "CDE9C971-2E9F-42B2-8F35-1DF2947101F3"
+      "class": "text",
+      "id": "08D14468-FBB8-4FE3-96D3-22A43D3F44D2"
+    },
+    {
+      "class": "text",
+      "id": "68720593-4611-49B0-9C54-A5AB08AAEFE4"
+    },
+    {
+      "class": "text",
+      "id": "A6258F11-7BCB-4E21-9D1A-39AFA64834E5"
+    },
+    {
+      "class": "text",
+      "id": "5FC4C558-1510-48C8-89FD-49C70ED70FF7"
+    },
+    {
+      "class": "text",
+      "id": "EE763570-9822-4B7D-A972-3ECED57AEA32"
+    },
+    {
+      "class": "text",
+      "id": "FDE230FE-E0AD-4ABB-8C98-2BE2777105DC"
     },
     {
       "class": "shapeGroup",
-      "id": "499CAAA8-33AC-4602-B3A4-476C798ACAC0"
+      "id": "C6F9C589-D047-4B20-83BF-AC7FAA8B7B95"
+    },
+    {
+      "class": "text",
+      "id": "681643D7-5B1D-4E4B-ADDA-F183974921C8"
+    },
+    {
+      "class": "text",
+      "id": "527E9E51-802C-487F-8D37-8522EF46B168"
+    },
+    {
+      "class": "text",
+      "id": "D4D701D9-D131-4C2B-9E85-45130024CFE0"
     },
     {
       "class": "shapeGroup",
@@ -256,11 +301,23 @@
     },
     {
       "class": "group",
-      "id": "3AC84985-9CA6-4EB5-8565-ACB5D206A3C5"
+      "id": "D4403C71-135F-467A-927E-82B91B8731E2"
     },
     {
       "class": "group",
-      "id": "D4403C71-135F-467A-927E-82B91B8731E2"
+      "id": "C9A3F987-03CC-4A18-827E-79A240738E2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5AFDEAA-0EC5-4D7A-9C8A-98779824FE3F"
+    },
+    {
+      "class": "group",
+      "id": "4F3CC0D0-E4AE-4626-AD63-9C7A1D386B21"
+    },
+    {
+      "class": "group",
+      "id": "F327FF98-D251-4BBB-8549-C1A6BAECE828"
     }
   ],
   "name": "Modal",
