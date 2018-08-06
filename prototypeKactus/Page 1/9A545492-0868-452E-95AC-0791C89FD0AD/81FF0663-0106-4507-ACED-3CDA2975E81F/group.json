@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "81FF0663-0106-4507-ACED-3CDA2975E81F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 38,
+    "x": 33,
+    "y": 295
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "367D61D9-EC7C-42A0-884A-D23AA3497627"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "138994D3-21DF-4C86-8958-AB4986AB9240"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCC19E80-FBC7-4A2D-A68E-8328A8FB7E79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41DFA97C-6796-4A36-A80D-1EA9E5B6F198"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7152A55-B0CE-41CD-B8CF-F7C88D67D2A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7680BBC6-2D02-4AA2-BFA4-91397334CE6C"
+    }
+  ],
+  "name": "medal (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

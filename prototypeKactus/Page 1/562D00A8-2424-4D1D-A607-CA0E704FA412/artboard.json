@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9681919642857143,
+    "do_objectID": "49ECB071-632C-43F1-B87E-7BBED1F51557",
+    "green": 0.9681919642857143,
+    "red": 0.9681919642857143
+  },
+  "booleanOperation": 0,
+  "do_objectID": "562D00A8-2424-4D1D-A607-CA0E704FA412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90E98F4A-E724-4E3D-80B7-2042C1E2E13D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18CCE122-44F5-4C49-9C10-7E7695B9A2BD",
+    "height": 736,
+    "width": 360,
+    "x": -1435,
+    "y": 1260
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "D79D487D-F4C2-49FF-9228-28BA022230B0",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "127096B5-4322-4FA0-BAE0-340851C7E976",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "497D4FC5-09D3-4F3A-997A-F89056CA19C4"
+    },
+    {
+      "class": "text",
+      "id": "8AE66059-2465-4C96-9EFA-930161AE944A"
+    },
+    {
+      "class": "group",
+      "id": "D5ACC070-7ACC-4564-BEB5-A890D91A7DC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62AECCA3-233A-49A0-8E3E-721E7921D554"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75D26DB6-6AF8-45D1-BFFB-AE886FB0CBB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C08135A6-71A5-4FF1-9C24-5F6748CCFF2F"
+    },
+    {
+      "class": "text",
+      "id": "F7665540-2ED1-46E6-9163-D346A80306FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7CD5C8F-8977-41BF-AB2D-D7B4EA916515"
+    },
+    {
+      "class": "text",
+      "id": "A8DD40DF-567A-4089-B108-D86F647C15F6"
+    },
+    {
+      "class": "text",
+      "id": "39618F74-1300-42B3-A4BF-579BF640D2C8"
+    },
+    {
+      "class": "text",
+      "id": "E527AC79-CD38-4D98-A4B1-5CEB567EE509"
+    },
+    {
+      "class": "text",
+      "id": "F64F2500-9208-4E81-A86E-52CA2E5B04FD"
+    },
+    {
+      "class": "group",
+      "id": "1C9394A0-2D51-4A86-A88C-2BEC3922D35A"
+    },
+    {
+      "class": "group",
+      "id": "F57AD327-350B-4865-8BEA-F22760DB4D74"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "E19187BE-D261-4635-862A-D3F4A486A1DF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 13.33333333333333,
+    "guttersOutside": false,
+    "horizontalOffset": 20,
+    "isEnabled": true,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "Home Copy 5",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "452A8858-86DA-4F34-952F-065127E1EBE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55A647F7-45A8-4A1F-8F53-DB673411D123",
+    "guides": [
+      25
+    ]
+  }
+}

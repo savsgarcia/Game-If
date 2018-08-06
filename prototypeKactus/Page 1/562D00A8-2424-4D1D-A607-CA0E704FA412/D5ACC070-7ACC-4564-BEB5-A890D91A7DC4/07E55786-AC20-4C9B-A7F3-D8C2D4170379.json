@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "07E55786-AC20-4C9B-A7F3-D8C2D4170379",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF9AEC78-08AE-4A30-B423-9094EFCDEC18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C88591E4-9D3A-4CB9-A635-819DC76446D4",
+    "height": 90,
+    "width": 79,
+    "x": 267,
+    "y": 416
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Polygon Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9619681D-7AE9-4CB9-9E12-707B95B39EE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B384ACA1-4843-439C-B3EE-AB641FE218DD",
+  "verticalSpacing": 0
+}

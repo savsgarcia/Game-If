@@ -1,0 +1,135 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3AFCF7B7-7602-49F2-955F-8C22CF8C8A16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADF4EED1-B114-49FC-9E71-639F2235DC33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "824B5FC1-8E77-47D2-8298-81000EA56789",
+    "height": 44,
+    "width": 54,
+    "x": 33,
+    "y": 544
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E71AA69-3657-440E-8665-911A25BB7402"
+    },
+    {
+      "class": "group",
+      "id": "EABFBDF4-EEBE-4414-8E5D-1D901651F7BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC0ED10C-496C-4653-AD0A-7CF976C1E9B1"
+    },
+    {
+      "class": "group",
+      "id": "4C103AD5-A499-403A-AC56-4B420422DE0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD67B79C-D91C-4126-B3A7-C7CF0A3ABEEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6311F5F8-969E-492E-B8FF-EEBCEDCE5C5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8D7A3E8-2022-4FA9-AC9D-2E7166F27D2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF2B0BEB-9166-4B3E-873F-D0C6277C474F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67630A40-5440-462B-895E-8F30F3BE8B16"
+    },
+    {
+      "class": "group",
+      "id": "BAB4403B-0EBA-486B-962E-E2109A792CDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EAA4B4CC-D6D4-4091-8B9B-6F65E9C6EE9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EAED3B7-DD92-4A30-A583-08CF7DC4E02C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEE90C6E-E35A-4503-852F-78BDB6B2D8D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6FB28BA-CE09-4A16-AEA0-51831195A800"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "929C0EA0-38C8-4615-BE08-E636A88DE60A"
+    },
+    {
+      "class": "group",
+      "id": "E137E748-ACC0-44BE-8D5E-4ED5FA44D912"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4040797A-4DF9-41F3-9C50-68E00D4909E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87909EB7-E0C9-4285-9CDB-A5527B286032"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C60710C1-40E9-42F9-B8F0-0E9EF2E47B45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F868AF65-A665-43E0-9028-2FDE3B300A0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AE02A72-BB34-4E8C-B213-6454D5CCF907"
+    },
+    {
+      "class": "group",
+      "id": "91362B45-1BF2-4195-92B7-61E48028C784"
+    }
+  ],
+  "name": "swords",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "582C8DB1-59AD-4606-A62F-04285F3F442F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

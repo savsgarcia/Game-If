@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F2057255-4C2F-40D6-97C9-350B65B0ED76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42D9D587-6896-4211-A475-03A5714B735A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF755AE5-316E-4F32-AAD1-1A1660CB1106",
+    "height": 30,
+    "width": 25,
+    "x": 21,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9CADE9F5-5200-4487-B8D4-5ACA8C1EBF6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F5E51E8-2480-45B6-96DE-D3BD655B4236"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5F53037-E0E3-4D6B-B3D6-8E77F0CAFA85"
+    }
+  ],
+  "name": "medal copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02F042FC-C075-41E4-95A3-5CBA79EA8AFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
